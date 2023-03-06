@@ -32,3 +32,6 @@
 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
  </div>
+ 
+ 
+   ![snake gif](https://github.com/RobertoDolife/RobertoDolife/blob/output/github-contribution-grid-snake.svg)
