@@ -1,4 +1,4 @@
-### <p>Meu nome é Roberto Dolife e sou desenvolvedor júnior com experiência em HTML, CSS e JavaScript.</p>
+### <p>Meu nome é Roberto Dolife e sou desenvolvedor full stack com experiência em HTML, CSS, JavaScript, SQL, CVS e python.</p>
 
 <p>Na faculdade, tenho desenvolvido páginas web responsivas e atraentes utilizando as mais recentes técnicas de design e desenvolvimento web. Minhas habilidades em HTML me permitem criar a estrutura básica de uma página web, enquanto o CSS me permite estilizar e torná-la visualmente atraente. Além disso, minhas habilidades em JavaScript me permitem adicionar interatividade à página, como animações, validações de formulários e outras funcionalidades dinâmicas.</p>
 
