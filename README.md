@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Roberto+Dolife;Eu+tenho+21+anos;Sou+Brasileiro;Sou+graduado+em+Cienciência+da+computação;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RobertoDolife&bg_color=0d1117&color=008B8B&line=5F9EA0&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   Na faculdade, tenho desenvolvido páginas web responsivas e atraentes utilizando as mais recentes técnicas de design e desenvolvimento web. Minhas habilidades em HTML me permitem criar a estrutura básica de uma página web, enquanto o CSS me permite estilizar e torná-la visualmente atraente. Além disso, minhas habilidades em JavaScript me permitem adicionar interatividade à página, como animações, validações de formulários e outras funcionalidades dinâmicas.
