@@ -5,33 +5,40 @@
 ---
 
 <p align="center">
-Sou Desenvolvedor Fullstack com 3 anos de experiência em projetos web, mobile e soluções IoT. Atuo com backend em PHP, Node.js e Python, frontend moderno com JavaScript e Flutter para mobile. Apaixonado por tecnologia, automação e criação de sistemas escaláveis e eficientes.
+Sou Desenvolvedor Fullstack com 3 anos de experiência em soluções web, mobile e IoT. Domino linguagens como PHP, JavaScript, TypeScript, Python, Java e C, com foco em backend, frontend e desenvolvimento mobile com Flutter. Tenho experiência com arquitetura de sistemas, infraestrutura em nuvem e automação DevOps.
 </p>
 
 ---
 
-## 🚀 Tecnologias que utilizo no dia a dia
+## 🚀 Tecnologias e linguagens que utilizo
 
 <div style="display: inline_block"><br/>
+  <!-- Linguagens -->
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <!-- Frameworks e plataformas -->
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <!-- Banco de dados -->
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- DevOps e infraestrutura -->
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="AJAX" src="https://img.shields.io/badge/AJAX-005A9C?style=for-the-badge&logo=ajax&logoColor=white"/>
 </div>
 
 ---
 
-## 📚 Tecnologias que estou aprendendo
+## 📚 Tecnologias em aprendizado
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 ---
