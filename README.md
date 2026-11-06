@@ -15,47 +15,16 @@
 
 ### 👋 Sobre mim
 
-Sou **Analista de TI** com experiência em **automação de sistemas, integração de APIs e otimização de processos**. Atuo no desenvolvimento e na manutenção de soluções internas, integrando sistemas, automatizando fluxos de trabalho e apoiando as operações do negócio por meio da tecnologia.
-
-Minha base técnica inclui **C#, Python, SQL Server, integração de APIs e Visual Studio**, com experiência em projetar soluções escaláveis, aumentar a eficiência operacional e simplificar processos com automação.
-
-Antes disso, atuei como **Desenvolvedor Full Stack**, criando aplicações web, APIs, soluções de IoT e plataformas de dados em tempo real com tecnologias como PHP, TypeScript, Python, Node.js, React, Flutter, PostgreSQL e Microsoft Azure. Mais recentemente, também desenvolvi **automações inteligentes com a API da OpenAI** para otimizar fluxos de trabalho e aumentar a produtividade.
-
-🎓 Bacharel em **Ciência da Computação** e pós-graduado em **Desenvolvimento Full Stack**.
-
-Sou apaixonado por tecnologia e melhoria contínua, e gosto de entregar soluções práticas, confiáveis e focadas no negócio.
-
----
-
-### ⚡ No que eu trabalho
-
-- 🔄 **Automação** de sistemas, processos e fluxos de trabalho
-- 🔌 **Integração de APIs** e entre sistemas
-- 🏢 **Soluções internas** de apoio às operações do negócio
-- 🤖 **Automações inteligentes** com a API da OpenAI
-- 🌐 **Full Stack**: aplicações web, APIs, IoT e dados em tempo real
-
----
-
-### 🛠️ Tecnologias
-
-**Atual**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,visualstudio,azure&theme=dark" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,js,php,nodejs,html,css&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,jquery,flutter,dart,postgres,mysql&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=azure,visualstudio,git,github&theme=dark" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20de%20APIs-00B4D8?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-**Web, Mobile e Banco de Dados**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,jquery&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,flutter,dart,postgres,mysql,git,github&theme=dark" />
-  <br/>
   <img src="https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
