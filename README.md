@@ -1,64 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Roberto+Dolife;Desenvolvedor+Fullstack;+Bem-vindo!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00B4D8,100:00FFFF&height=180&section=header&text=Roberto%20Dolife&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20TI%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Integra%C3%A7%C3%A3o%20de%20APIs&descAlignY=58&descSize=16&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Roberto+%F0%9F%91%8B;Analista+de+TI;Automa%C3%A7%C3%A3o+de+sistemas+e+processos;Integra%C3%A7%C3%A3o+de+APIs;Automa%C3%A7%C3%B5es+inteligentes+com+IA+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/roberto-dolife-730505202)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/robertodolife/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/DOLIFERA)
+![Visitas](https://komarev.com/ghpvc/?username=RobertoDolife&color=00b4d8&style=flat-square&label=visitas)
+
+</div>
 
 ---
 
+### 👋 Sobre mim
+
+Sou **Analista de TI** com experiência em **automação de sistemas, integração de APIs e otimização de processos**. Atuo no desenvolvimento e na manutenção de soluções internas, integrando sistemas, automatizando fluxos de trabalho e apoiando as operações do negócio por meio da tecnologia.
+
+Minha base técnica inclui **C#, Python, SQL Server, integração de APIs e Visual Studio**, com experiência em projetar soluções escaláveis, aumentar a eficiência operacional e simplificar processos com automação.
+
+Antes disso, atuei como **Desenvolvedor Full Stack**, criando aplicações web, APIs, soluções de IoT e plataformas de dados em tempo real com tecnologias como PHP, TypeScript, Python, Node.js, React, Flutter, PostgreSQL e Microsoft Azure. Mais recentemente, também desenvolvi **automações inteligentes com a API da OpenAI** para otimizar fluxos de trabalho e aumentar a produtividade.
+
+🎓 Bacharel em **Ciência da Computação** e pós-graduado em **Desenvolvimento Full Stack**.
+
+Sou apaixonado por tecnologia e melhoria contínua, e gosto de entregar soluções práticas, confiáveis e focadas no negócio.
+
+---
+
+### ⚡ No que eu trabalho
+
+- 🔄 **Automação** de sistemas, processos e fluxos de trabalho
+- 🔌 **Integração de APIs** e entre sistemas
+- 🏢 **Soluções internas** de apoio às operações do negócio
+- 🤖 **Automações inteligentes** com a API da OpenAI
+- 🌐 **Full Stack**: aplicações web, APIs, IoT e dados em tempo real
+
+---
+
+### 🛠️ Tecnologias
+
+**Atual**
+
 <p align="center">
-Sou Desenvolvedor Fullstack com 3 anos de experiência em soluções web, mobile e IoT. Domino linguagens como PHP, JavaScript, TypeScript, Python, Java e C, com foco em backend, frontend e desenvolvimento mobile com Flutter. Tenho experiência com arquitetura de sistemas, infraestrutura em nuvem e automação DevOps.
+  <img src="https://skillicons.dev/icons?i=cs,python,visualstudio,azure&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20de%20APIs-00B4D8?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+**Web, Mobile e Banco de Dados**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,jquery&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,flutter,dart,postgres,mysql,git,github&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Arquitetura%20MVC-0d1117?style=for-the-badge&logo=databricks&logoColor=00FFFF"/>
 </p>
 
 ---
 
-## 🚀 Tecnologias e linguagens que utilizo
+### 📈 GitHub
 
-<div style="display: inline_block"><br/>
-  <!-- Linguagens -->
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <!-- Frameworks e plataformas -->
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <!-- Banco de dados -->
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <!-- DevOps e infraestrutura -->
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/?user=RobertoDolife&locale=pt_BR&hide_border=true&background=0d1117&ring=00FFFF&fire=00B4D8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 ---
 
-## 📚 Tecnologias em aprendizado
+<div align="center">
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+**Vamos conversar?** Me chama no [LinkedIn](https://br.linkedin.com/in/roberto-dolife-730505202) 🤝
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:00B4D8,100:0d1117&height=120&section=footer"/>
+
 </div>
-
----
-
-## 📈 Minhas estatísticas no GitHub
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RobertoDolife&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoDolife&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
-</div>
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/roberto-dolife-730505202)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertodolife/)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/DOLIFERA)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertoDolife)  
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
